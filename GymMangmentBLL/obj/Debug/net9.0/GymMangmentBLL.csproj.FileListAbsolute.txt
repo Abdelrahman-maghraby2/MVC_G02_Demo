@@ -1,0 +1,15 @@
+D:\MVC\Sectoin 02\Demo\GymMangmentSystemSolution\GymMangmentBLL\bin\Debug\net9.0\GymMangmentBLL.deps.json
+D:\MVC\Sectoin 02\Demo\GymMangmentSystemSolution\GymMangmentBLL\bin\Debug\net9.0\GymMangmentBLL.dll
+D:\MVC\Sectoin 02\Demo\GymMangmentSystemSolution\GymMangmentBLL\bin\Debug\net9.0\GymMangmentBLL.pdb
+D:\MVC\Sectoin 02\Demo\GymMangmentSystemSolution\GymMangmentBLL\bin\Debug\net9.0\GymMangmentDAL.dll
+D:\MVC\Sectoin 02\Demo\GymMangmentSystemSolution\GymMangmentBLL\bin\Debug\net9.0\GymMangmentDAL.pdb
+D:\MVC\Sectoin 02\Demo\GymMangmentSystemSolution\GymMangmentBLL\obj\Debug\net9.0\GymMangmentBLL.csproj.AssemblyReference.cache
+D:\MVC\Sectoin 02\Demo\GymMangmentSystemSolution\GymMangmentBLL\obj\Debug\net9.0\GymMangmentBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\Sectoin 02\Demo\GymMangmentSystemSolution\GymMangmentBLL\obj\Debug\net9.0\GymMangmentBLL.AssemblyInfoInputs.cache
+D:\MVC\Sectoin 02\Demo\GymMangmentSystemSolution\GymMangmentBLL\obj\Debug\net9.0\GymMangmentBLL.AssemblyInfo.cs
+D:\MVC\Sectoin 02\Demo\GymMangmentSystemSolution\GymMangmentBLL\obj\Debug\net9.0\GymMangmentBLL.csproj.CoreCompileInputs.cache
+D:\MVC\Sectoin 02\Demo\GymMangmentSystemSolution\GymMangmentBLL\obj\Debug\net9.0\GymMangm.F9DE22F8.Up2Date
+D:\MVC\Sectoin 02\Demo\GymMangmentSystemSolution\GymMangmentBLL\obj\Debug\net9.0\GymMangmentBLL.dll
+D:\MVC\Sectoin 02\Demo\GymMangmentSystemSolution\GymMangmentBLL\obj\Debug\net9.0\refint\GymMangmentBLL.dll
+D:\MVC\Sectoin 02\Demo\GymMangmentSystemSolution\GymMangmentBLL\obj\Debug\net9.0\GymMangmentBLL.pdb
+D:\MVC\Sectoin 02\Demo\GymMangmentSystemSolution\GymMangmentBLL\obj\Debug\net9.0\ref\GymMangmentBLL.dll

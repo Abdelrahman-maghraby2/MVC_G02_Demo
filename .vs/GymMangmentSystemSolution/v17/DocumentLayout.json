@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVC\\Sectoin 02\\Demo\\GymMangmentSystemSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C094F9DE-FF4E-451E-8DF1-04C4C737A423}|GymMangmentDAL\\GymMangmentDAL.csproj|d:\\mvc\\sectoin 02\\demo\\gymmangmentsystemsolution\\gymmangmentdal\\reposatories\\class\\trainerreposatories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C094F9DE-FF4E-451E-8DF1-04C4C737A423}|GymMangmentDAL\\GymMangmentDAL.csproj|solutionrelative:gymmangmentdal\\reposatories\\class\\trainerreposatories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C094F9DE-FF4E-451E-8DF1-04C4C737A423}|GymMangmentDAL\\GymMangmentDAL.csproj|d:\\mvc\\sectoin 02\\demo\\gymmangmentsystemsolution\\gymmangmentdal\\reposatories\\interface\\itrainerinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C094F9DE-FF4E-451E-8DF1-04C4C737A423}|GymMangmentDAL\\GymMangmentDAL.csproj|solutionrelative:gymmangmentdal\\reposatories\\interface\\itrainerinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D41C3-5F85-4FCA-BF66-2B09BA43C603}|GymMangmentPL\\GymMangmentPL.csproj|d:\\mvc\\sectoin 02\\demo\\gymmangmentsystemsolution\\gymmangmentpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D41C3-5F85-4FCA-BF66-2B09BA43C603}|GymMangmentPL\\GymMangmentPL.csproj|solutionrelative:gymmangmentpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrainerReposatories.cs",
+              "DocumentMoniker": "D:\\MVC\\Sectoin 02\\Demo\\GymMangmentSystemSolution\\GymMangmentDAL\\Reposatories\\Class\\TrainerReposatories.cs",
+              "RelativeDocumentMoniker": "GymMangmentDAL\\Reposatories\\Class\\TrainerReposatories.cs",
+              "ToolTip": "D:\\MVC\\Sectoin 02\\Demo\\GymMangmentSystemSolution\\GymMangmentDAL\\Reposatories\\Class\\TrainerReposatories.cs",
+              "RelativeToolTip": "GymMangmentDAL\\Reposatories\\Class\\TrainerReposatories.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T00:59:22.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITrainerInterface.cs",
+              "DocumentMoniker": "D:\\MVC\\Sectoin 02\\Demo\\GymMangmentSystemSolution\\GymMangmentDAL\\Reposatories\\Interface\\ITrainerInterface.cs",
+              "RelativeDocumentMoniker": "GymMangmentDAL\\Reposatories\\Interface\\ITrainerInterface.cs",
+              "ToolTip": "D:\\MVC\\Sectoin 02\\Demo\\GymMangmentSystemSolution\\GymMangmentDAL\\Reposatories\\Interface\\ITrainerInterface.cs",
+              "RelativeToolTip": "GymMangmentDAL\\Reposatories\\Interface\\ITrainerInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T00:53:30.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MVC\\Sectoin 02\\Demo\\GymMangmentSystemSolution\\GymMangmentPL\\Program.cs",
+              "RelativeDocumentMoniker": "GymMangmentPL\\Program.cs",
+              "ToolTip": "D:\\MVC\\Sectoin 02\\Demo\\GymMangmentSystemSolution\\GymMangmentPL\\Program.cs",
+              "RelativeToolTip": "GymMangmentPL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T23:30:47.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
